@@ -1,5 +1,5 @@
 # degree-project-character-navigator
 
-Front-end: https://github.com/grad-thesis/frontend <br/>
-Back-end: https://github.com/grad-thesis/backend <br/>
-ML-service: https://github.com/grad-thesis/ml-service
+Front-end: https://github.com/character-navigator/frontend <br/>
+Back-end: https://github.com/character-navigator/backend <br/>
+ML-service: https://github.com/character-navigator/ml-service
