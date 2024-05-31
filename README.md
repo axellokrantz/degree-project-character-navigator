@@ -1,5 +1,5 @@
-# Character Navigator
-## Degree project
+# Degree Project
+## Character Navigator
 
 Character Navigator is an application developed by KTH students Daniel Dahlberg and Axel Månson Lokrantz as part of their bachelor thesis project, represents a collaborative endeavor with BookBeat, a digital book streaming service. Here you can read the thesis or try the prototype yourself.
 
