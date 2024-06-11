@@ -11,15 +11,28 @@ Run the project with Docker:
    git clone https://github.com/character-navigator/backend
    cd backend
    ```
-
-3. **Build Docker Image**
+2. **Build Docker Image**
     ```bash
     docker build -t characternavigator .
     ```
-
-4. **Run Docker Container**
+   
+3. **Run Docker Container**
    ```bash
-   docker run -e "SigningSecret=32-character-long-secure-password" -p 8080:8080 --name containername characternavigator
+   docker run -e "SigningSecret=32-character-long-secure-password" -p 5025:8080 --name containername characternavigator
+   ```
+
+4. **Enter Responsive Mode**
+
+   The app is currently only supported in responsive mode.
+
+   To enter responsive mode, open the developer tools (F12 or right click -> Inspect) and ensure that "Toggle device emulation" is enabled in the top left corner of the developer tools.
+   
+6. **Log In**
+
+   Log into the application by entering the following credentials:
+   ```
+   Username: admin
+   Password: admin123
    ```
 
 ## Project Repositories
